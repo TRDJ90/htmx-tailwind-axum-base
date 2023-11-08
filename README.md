@@ -1,1 +1,1 @@
-# htmx-tailwind-axum-sqlite-base
+# htmx-tailwind-axum-base
